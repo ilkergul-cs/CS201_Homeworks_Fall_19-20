@@ -4,6 +4,7 @@
 #include "miniFW_Modified.h"
 #include "Robots_Modified.h"
 
+
 using namespace std;
 
 void manuel_actions(Robot & player1) // I modified the code for manuel entry from the user
