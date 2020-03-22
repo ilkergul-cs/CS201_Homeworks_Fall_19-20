@@ -1,0 +1,12 @@
+Please enter a filename for Students Grades Results: grades2.txt
+Please enter a filename for Students Names : students.txt
+Enter the rank you want to query (enter 0 to exit): 15
+Rank needs to be greater than 0 and smaller than 14!
+Enter the rank you want to query (enter 0 to exit): 13
+13, 00011366, Yigit Akar, 54.6
+Enter the rank you want to query (enter 0 to exit): 1
+1, 00012287, Onur Akdeniz, 83
+Enter the rank you want to query (enter 0 to exit): 5
+5, 00009713, Ozge Karadeniz, 72.4
+Enter the rank you want to query (enter 0 to exit): 0
+Exiting...
