@@ -190,7 +190,7 @@ void main_checker_func()
 	cout << "See you!" << endl;
 }
 
-int main)
+int main()
 {
 	cout << "This program searches a search string in a source string with the option of wildcards.\n\n" ;
 	cout << "Example inputs with their meaning in parantheses:" << endl;
@@ -204,19 +204,7 @@ int main)
 	return 0;
 }
 
-void main18()
-{
-	int X_coordinate, Y_coordinate;
-	cout << "Please enter starting coordinates, first row X then column Y: " ;
-	cin >> X_coordinate >> Y_coordinate;
-	while (X_coordinate >= 0 && X_coordinate < Matrix.size() && Y_coordinate >= 0 && Y_coordinate < Matrix[0].size()) 
-	{
-		cout << "Invalid Coordinates" << endl << endl << "Please enter starting coordinates, first row X then column Y: " ;
-		cin >> X_coordinate >> Y_coordinate;
-	}
 
-	
-}
 
 // end of homework 3
 // yours sincerely,
